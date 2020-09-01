@@ -1,0 +1,15 @@
+Christian Zierold
+
+Tätigkeitsbeschreibung:
+
+Nachfolgend folgt die Tätigkeitsbeschreibung von Christian Zierold. Im Softwareprojekt war ich im GUI-Team tätig. 
+Dort wurde das Grunddesign der GUI (SceneBuilder + CSS) von mir "festgelegt". 
+Weiterhin wurde dieses Design natürlich auf alle anderen Views übertragen, damit die Anwendung ein einheitliches Aussehen
+besitzt. Die Skalierung der Anwendung sowohl für geringere als auch für höhere Auflösungen ist gewährleistet.
+Der Login und Logout der Anwendung erfolgte durch das Abgleichen der Eingaben mit denen aus der Datenbank.
+Weiterhin habe ich vor allem Fehlermeldungen in Form von Alerts erstellt, um Exceptions zu vermeiden.
+Bestätigungen erfolgten ebenfalls als Alerts, nachdem z.B. ein neues Produkt erstellt wurde.
+Wenn noch keine z.B. Aufträge in der Datenbank sind, dann erscheint ein Dialogfenster mit einer Nachfrage,
+ob der Nutzer einen neuen Auftrag anlegen möchte.
+Als letztes sind noch Bugfixes und diverse Übersetzungen anzumerken.
+Für 3 Meetings habe ich das Protokoll erstellt.

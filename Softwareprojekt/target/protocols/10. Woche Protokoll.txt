@@ -1,0 +1,47 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 11.06.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Salavat, Ivan, Simon, Maksat, Bayish, Christian, Beknazar
+
+Fehlend: -
+
+Optionale Featues:	- Aufträge stornieren, falls noch nicht begonnen
+					- Extra Details zu allen Produkten anlegen für Tabellen
+					- Filter-Funktion
+					- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+					- Warnung wenn Liefertermin nicht eingehalten werden kann (EndDate > DeliveryDate)
+					- Operation noch anfangen, wenn Firma kurz davor ist Pause zu machen?
+
+
+Protokollkontrolle 9. Woche
+---------------------------
+- fast alle Aufgaben erledigt
+- Anpassung der zeitlichen Einteilung der X-Achse im Gantt-Diagramm noch nicht umgesetzt
+- MouseOver/Tooltip zum jetzigen Zeitpunkt nicht mehr umsetzbar
+- größer ziehen der GUI könnte noch optimiert werden
+- kleinere Problem bei Darstellung der GUI -> Lesbarkeit verbessern
+
+
+Aufgaben bis 18.06.2018:
+------------------------
+Aufgaben:																		bearbeitet von:
+1. weiße Schrift oder weiße Transparenz hinter schlecht lesbaren Informationen	+GUI-Team
+
+2. Daten aus Algorithmus mit dem Gantt-Diagramm verbinden						+Beknazar, Simon
+
+3. Fehlerbehandlung beim Produkt hinzufügen (Exceptions vermeiden)				+Christian
+   
+4. Geplantes Lieferdatum beim Auswählen eines Auftrages anzeigen lassen			+Florian
+   Falls Kundentermin nicht eingehalten werden kann Schrift rot
+   
+5. Fehler beim Erstellen eines zweiten Auftrages beheben (größerer Aufwand)		+Model-Team
+
+
+Zusätzliches:
+-------------
+---
+
+
+//

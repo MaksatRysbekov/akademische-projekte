@@ -1,0 +1,17 @@
+Salavat Islamov
+Tätigkeitsbeschreibung:
+Im Softwareprojekt war ich im Modell-Team tätig.
+Einbettung von Spring Framework ins Projekt:
+	Konfiguration von Maven (pom.xml Datei): 
+		Definition der notwendigen Bibliotheken für Spring Data, Hibernate, H2-Datenbank und Guava(Bibliothek für Collections).
+	Konfiguration von H2-Datenbank und für Hibrenate notwendigen Einstellungen in der app-context.xml Datei.  
+Erstellung und Mapping allen Domain-Klassen im Paket pti.model.domain außer „EmployeeProductionOrderOperation“.
+Teilname an der Definition von Testdaten in der test-data.sql Datei:
+	Kunden, Arbeitsgänge, Workskeschedule, Admin.
+Teilname an der Erstellung einigen Repositories, Services mit der Methoden insert(), update(), delete() in den Paketen pti.repository und pti.service.
+Teilname an der Erstellung einigen Testmetoden in der Klasse Main im Paket pti.test:
+	testCreatingOfTheOrders(), deletingOrders(),  updateCustomer(), deleteCustomer(), 
+	createOrderWithExistingCustomerAndProduct(), insertCustomer(), insertAdmin(). 
+Behebung von den meisten Fehlern  mit Datenbank, die von GUI-Team herausgefunden wurden. 
+Teilnahme an der Erstellung der Klasse OrderFactory im Paket pti.test.
+Teilnahme an der Herausfindung und Behebung der Fehlern im Modell und zwar Anpassung von Mapping der Domain-Klassen zu den Änderungen im Modell.

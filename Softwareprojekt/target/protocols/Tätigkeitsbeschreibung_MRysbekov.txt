@@ -1,0 +1,31 @@
+Maksat Rysbekov
+Tätigkeitsbeschreibung:
+Im Softwareprojekt war ich im Modell-Team tätig. 
+
+
+Erstellung solchen Klassen mit Methoden in package pti.model.repository wie:
+ OrderRepository
+ ProductionOrderRepository 
+ ProductRepository
+ WorkscheduleRepository.
+
+Erstellung solchen Klassen mit Methoden in package pti.model.service wie:
+OrderService
+OrderServiceImpl
+ProductionOrderService
+ProductionOrderServiceImp
+ProductService
+ProductServiceImpl
+WorkscheduleService
+WorkscheduleServiceImp.
+
+Erstellung einer Tabelle in schema.sql
+
+Hinzufügung der Testdaten fuer Maschinen, Operationen, Produkt
+ 
+Hinzufügung der Testdaten zur Datenbank
+
+Erstellung Testmethoden in der Klasse „Main“ in dem Package „test“.
+
+Teilnahme an der Erstellung der Tabelle „Die Dauer der Operationen in Minuten“, die in „test-data.sql“ verwendet wurde.
+

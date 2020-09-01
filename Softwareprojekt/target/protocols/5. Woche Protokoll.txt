@@ -1,0 +1,52 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 23.04.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Christian, Bayish, Salavat, Ivan, Beknazar, Maksat, Simon
+
+Fehlend: -
+
+Features für später:	- Aufträge stornieren, falls noch nicht begonnen
+			- Extra Details zu allen Produkten anlegen für Tabellen
+			- Filter-Funktion
+			- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+			- Gantt-Diagramme mit Daten füllen --> Algorithmus
+			  + Maschinenübersicht verknüpfen
+			  + Diagramme im einheitlichen Stil
+
+
+Protokollkontrolle 4. Woche
+---------------------------
+(- bereits im letzten Protokoll gemacht)
+
+
+Aufgaben bis 23.04.2018:
+------------------------
+Aufgaben:											bearbeitet von:
+1. Sprung ins Hauptmenü ermöglichen								Timon
+
+2. englisch --> deutsch										Modell-Team
+
+3. hinzufügen, bearbeiten, löschen --> TODO füllen						Timon, Florian, Simon
+
+4. loginName überarbeiten --> korrekt anzeigen							Florian
+
+5. labels entfernen, defaults festlegen oder entfernen						Christian
+
+6. Fullscreen automatisch skalieren								Christian
+
+7. Maschinen und Mitarbeiter hinzufügen/bearbeiten/löschen (in Übersicht)			Florian, Modell-Team
+
+8. Hauptmenü neu organisieren: neues Layout --							Christian, Simon, Flo, Timon
+   BorderPane? einfacher navigieren, übersichtlicher gestalten
+
+9. Details zu Mitarbeiter: Attribute -> Verfügbarkeit (boolean verfügbar oder nicht)		Modell-Team
+			in nächster Zeile -> bis wann! krank/Urlaub (Datum null erlaubt)
+
+10. Modell-Team: Attribute und Methoden für Verfügbarkeit (muss im Gantt berücksichtigt werden)	Modell-Team
+
+11+12. selbiges für Maschinen (boolean funktionstütig oder nicht) ; Datum kann "null" sein	Modell-Team
+
+
+//

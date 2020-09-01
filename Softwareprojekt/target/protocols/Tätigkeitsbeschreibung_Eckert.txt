@@ -1,0 +1,11 @@
+Tätigkeitsbeschreibung
+Simon Eckert
+
+Als Teil des GUI-Teams war ich für die Erstellung eines Gantt-Diagrammes zur Visualisierung der Maschinen- und Mitarbeitertätigkeit zuständig.
+Um dies umzusetzen, beschäftigte ich mich zuerst mit den gegebenen Elementen des verwendeten Frameworks JavaFX.
+Ich erstellte die Klasse GanttChart, welche von der Klasse XYChart erbt.
+Somit war es mir möglich, Eigenschaften und Methoden zu verwenden, welche auch den in JavaFX üblichen Diagrammen (BubbleChart, LineChart etc.) zur Verfügung stehen.
+Durch Hinzufügen und Zeichnen der Testdatensätze wurde ein erster Prototyp erstellt, welcher auf der Y-Achse die Maschinen bzw. Arbeiter und auf der X-Achse Zahlenwerte beinhaltete, welche für die jeweilige Dauer standen.
+Nachdem der Algorithmus fertiggestellt war, habe ich Methoden geschrieben, um die aufbereiteten Daten in das Diagramm einzufügen, zu zeichnen und darzustellen.
+Des Weiteren habe ich kleinere Fehler in der GUI behoben, sowie den Teamleiter beim Protokollieren einiger Meetings unterstützt.
+

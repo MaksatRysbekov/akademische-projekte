@@ -1,0 +1,61 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 07.05.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Christian, Salavat, Ivan, Beknazar, Maksat
+
+Fehlend: Bayish, Simon
+
+Features für später:	- Aufträge stornieren, falls noch nicht begonnen
+			- Extra Details zu allen Produkten anlegen für Tabellen
+			- Filter-Funktion
+			- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+			- Gantt-Diagramme mit Daten füllen --> Algorithmus
+			  + Maschinenübersicht verknüpfen
+			  + Diagramme im einheitlichen Stil
+
+
+Protokollkontrolle 5. Woche
+---------------------------
+- alle Punkte fertig/erfüllt
+- Sprung ins Hauptmenü (nach Änderung der Scenes in -> Tabs) überflüssig
+- kleiner Fehler bei hinzufügen und bearbeiten von Produkten muss noch behoben werden
+- Fullscreen verworfen (wird abgeändert zu einer einheitlichen Skalierung/Sicht)
+
+
+Aufgaben bis 14.05.2018:
+------------------------
+Aufgaben:													bearbeitet von:
+1. beim Erstellen eines Auftrags: bestehenden Kunden und Produkt auswählen (+ oder neuen Kunden erstellen)	Modell-Team + Flo
+
+2. beim Erstellen eines Auftrags: Produkt hinzufügen mit ComboBox und Textfeld für Anzahl (OrderProduct)	Modell-Team + Flo
+
+3. Englisch --> Deutsch (einzelne Kleinigkeiten)								Timon
+
+4. Abmelden wieder hinzufügen											Christian
+
+5. Optimierung der Darstellung											Christian
+
+6. Beschreibung der Produkte/Mitarbeiter/Maschinen (Tabelle mit Name/Verfügbarkeit/etc)				Timon + Flo + Simon
+
+7. Hinzufügen, Bearbeiten, Löschen <-- überarbeiten und bei Maschinen/Mitarbeiter ebenfalls implementieren	Timon + Flo
+
+8. Gantt-Algorithmus in Projekt einfügen (evtl anpassen)							Beknazar
+
+9. hinzufügen von mehreren neuen 5 Mitarbeiter, 5 Maschinen und 7 Produkten					Modell-Team
+
+- für Später bzw. Arbeit für längeren Zeitraum
+10. Gantt Diagramm anzeigen											Simon + Beknazar + Timon + Flo
+
+
+Zusätzliches:
+-------------
+Produkte: Stuhl, Tisch, Schrank, Bett, Kommode, Regal, Tür
+
+Maschine: 1=Sägen, 2=Bohren, 3=Hobeln, 4=Oberfläche (Politur), 5=Verpacken
+
+Mirarbeiter: 1=Thomas, 2=Dieter, 3=... 5=
+
+
+//

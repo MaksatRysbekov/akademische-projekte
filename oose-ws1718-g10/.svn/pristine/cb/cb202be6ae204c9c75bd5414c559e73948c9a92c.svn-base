@@ -1,0 +1,13 @@
+
+
+"Rooms":{
+
+	"Library" : "https://www.google.de/search?newwindow=1&biw=1600&bih=720&tbm=isch&sa=1&ei=hxBaWvS7K8jFwQKnjaT4DQ&q=castle+library&oq=castle+librar&gs_l=psy-ab.3.0.0i19k1j0i30i19k1j0i5i30i19k1l8.52626.53741.0.54747.6.6.0.0.0.0.100.498.5j1.6.0....0...1c.1.64.psy-ab..0.6.491...0j0i30k1.0.UkRYuWHpfw8#imgrc=Qwbt4uLdORh0IM:",
+	"Kitchen" : "https://www.google.de/search?newwindow=1&biw=1600&bih=769&tbm=isch&sa=1&ei=XAlaWruaNsvfwALR25GwCw&q=castle+kitchen&oq=castle+kitchen&gs_l=psy-ab.3.0.0i19k1l3j0i30i19k1j0i5i30i19k1l6.1149123.1150426.0.1151357.7.7.0.0.0.0.98.585.7.7.0....0...1c.1.64.psy-ab..0.7.580...0j0i30k1.0.lVQo_yuhdLc#imgrc=5jfaUayhFayEaM:",
+	"Dragon" :"https://www.google.de/search?newwindow=1&biw=1600&bih=720&tbm=isch&sa=1&ei=VRBaWsaVKJH6wAKHvq_QDQ&q=castle+dragon&oq=castle+dra&gs_l=psy-ab.3.2.0l3j0i30k1l7.19338.19669.0.21685.3.3.0.0.0.0.84.232.3.3.0....0...1c.1.64.psy-ab..0.3.230....0.p1MqADeUIKA#imgrc=Wl1jEESeM71PbM:",
+	"Castle Gate" :"https://www.google.de/search?newwindow=1&biw=1600&bih=769&tbm=isch&sa=1&ei=WAlaWsH7MM3KwQLQgIjADg&q=castle+gate&oq=castle+gate&gs_l=psy-ab.3..0j0i30k1l4j0i10i30k1j0i30k1l4.1754.2687.0.3173.5.5.0.0.0.0.108.416.4j1.5.0....0...1c.1.64.psy-ab..0.5.413...0i67k1.0.0vt5aQvydlQ#imgrc=O2rhZXdsZgTKZM:",
+	"Princess" : "https://www.google.de/search?q=%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B5%D1%81%D1%81%D0%B0&newwindow=1&source=lnms&tbm=isch&sa=X&ved=0ahUKEwicqJ6EkcTYAhXMalAKHdD6B2sQ_AUICigB&biw=1600&bih=769#imgrc=BQG1Mzl3Xv7WuM:",
+	"Hall" : "https://www.google.de/search?newwindow=1&biw=1600&bih=720&tbm=isch&sa=1&ei=yg9aWsW4AYH6wALQ8KXQDQ&q=castle+hall&oq=castle+hall&gs_l=psy-ab.3..0j0i30k1l9.93092.94021.0.94165.4.4.0.0.0.0.98.309.4.4.0....0...1c.1.64.psy-ab..0.4.306....0.4k8Nq6M_VRo#imgrc=rtvZ8SeHiEHZ7M:",
+	"Hallway" : "https://www.google.de/search?newwindow=1&biw=1600&bih=720&tbm=isch&sa=1&ei=KRBaWqLlCoXZwQKq_pOwCw&q=castle+hallway&oq=castle+hallwa&gs_l=psy-ab.3.0.0i19k1l3j0i30i19k1l2j0i5i30i19k1l5.12444.12471.0.13987.2.2.0.0.0.0.163.256.1j1.2.0....0...1c.1.64.psy-ab..0.2.254...0i13k1j0i30k1j0i13i30k1.0.fbN1ZwzynQ8#imgrc=HRnO5d_av5KytM:"
+
+}

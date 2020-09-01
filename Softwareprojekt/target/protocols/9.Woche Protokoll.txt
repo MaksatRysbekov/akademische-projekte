@@ -1,0 +1,59 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 04.06.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Salavat, Ivan, Simon, Maksat, Bayish, Christian
+
+Fehlend: Beknazar
+
+Optionale Featues:	- Aufträge stornieren, falls noch nicht begonnen
+					- Extra Details zu allen Produkten anlegen für Tabellen
+					- Filter-Funktion
+					- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+					- Warnung wenn Liefertermin nicht eingehalten werden kann (EndDate > DeliveryDate)
+
+
+Protokollkontrolle 8. Woche
+---------------------------
+- alle Aufgaben erledigt und Bugs behoben
+- (GUI -> feste Größe als unpraktisch hervorgehoben; wird verbessert)
+
+
+Aufgaben bis 11.06.2018:
+------------------------
+Aufgaben:													bearbeitet von:
+1.  GUI ausbauen, vor allem MainMenu             			+Christian
+
+2.  minimale Größe rausnehmen								+Christian
+
+3.  Produkte, TextArea nicht editierbar machen				+Christian
+
+4.  Aktualisierung der Tabelle beim Löschen von Produkten	+GUI-Team
+
+5.  Pausen hinzufügen, (Frühstücks- und Mittagspause)       +
+    bei Bedarf auch mehr Pausen
+    Gantt-Maschinenübersicht
+
+6.  Gedanken über "Lohnt es sich noch den nächsten 			+
+    Produktionsschritt anzufangen?" machen
+
+7.  Darstellung des GANTT-Diagramms ändern					+Simon
+    X-Achsen:
+    - Mitarbeiter in einer Woche
+    - Maschine mit 1 Tag a 9 Stunden
+
+8.  Verbindung zwischen Datum und dem was der Alg. liefert	+Florian, Simon
+    Datum im DataPicker auswählen um Darstellung zu ändern
+    --> Filterfunktion
+
+9. Möglichkeit der Verknüpfung der Informationen			+Florian, Timon
+    zwischen den Tabellen (mouseOver, tooltip) 
+
+
+Zusätzliches:
+-------------
+---
+
+
+//

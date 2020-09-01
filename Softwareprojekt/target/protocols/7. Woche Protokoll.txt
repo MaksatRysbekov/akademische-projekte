@@ -1,0 +1,43 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 14.05.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Salavat, Ivan, Beknazar, Maksat, Bayish, Simon
+
+Fehlend: Christian
+
+Features für später:	- Aufträge stornieren, falls noch nicht begonnen
+			- Extra Details zu allen Produkten anlegen für Tabellen
+			- Filter-Funktion
+			- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+			- Warnung wenn Liefertermin nicht eingehalten werden kann (EndDate > DeliveryDate)
+
+
+Protokollkontrolle 6. Woche
+---------------------------
+- alle Punkte fertig/erfüllt
+- allerdings Schwierigkeiten mit Implementation des Algorithmus
+  (ca. 300 MB groß aber Repository lässt nur 50 MB zu)
+
+
+Aufgaben bis 28.05.2018:
+------------------------
+Aufgaben:													bearbeitet von:
+1. Beschreibung vollständig anzeigen beim Anlegen des Auftrages (--> Text Area statt Label)			Flo
+2. Lesbarkeit schaffen und Scene wieder skalierbar machen (schwarz auf braun --> weißer Hintergrund)		Christian
+3. Beim Hinzufügen eines Produktes die Operations angeben können						Gui-Team + Modell-Team
+4. Arbeitsschritte (Operations) anzeigen lassen (Darstellungen wenig Klicks, schnell Informationen)		Flo + Christian
+5. Anmeldungsdaten in die Taskleiste verschieben								Timon
+6. Tabs für Gantt-Diagramme erstellen										Flo
+7. - Anzahl der Produkte beim Erstellen eines Auftrages --> Exception (ProductionOrder)				Flo
+   - ProductionOder benötigt order Attribut
+8. Testdaten für Algorithmus, zum laufen bringen und im Gantt-Diagramm anzeigen lassen				Simon + Beknazar + Modell-Team
+
+
+Zusätzliches:
+-------------
+---
+
+
+//

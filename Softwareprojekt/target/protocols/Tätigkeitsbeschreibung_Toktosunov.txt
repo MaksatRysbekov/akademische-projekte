@@ -1,0 +1,13 @@
+Baiysh Toktosunov
+Tätigkeitsbeschreibung:
+Im Softwareprojekt war ich im Modell-Team tätig. 
+Die Änderungen im ERM. Diese Änderungen traten während des Projekts ungefähr dreimal auf.
+Umwandlung von ERM in Tabellen. Erstellung diese Tabellen in der „schema.sql“. 
+Erstellung der Klasse „EmployeeProductionOrderOperation“. Einige Änderungen in dem Package „domain“.
+Erstellung die meisten Klassen in dem Package „repository“. Außerdem Erstellung neuer Methoden nach Bedarf.
+Erstellung die meisten Klassen im dem Package „service“. Aber die Erstellung von nur wenigen Methoden. 
+Teilnahme an der Erstellung der Klasse „OrderFactory“ in dem Package „test“.
+Erstellung einigen Testmethoden in der Klasse „Main“ in dem Package „test“.
+Teilnahme an der Erstellung der Tabelle „Die Dauer der Operationen in Minuten“, die in „test-data.sql“ verwendet wurde. Hinzufügung von employee in „test-data.sql“.
+
+

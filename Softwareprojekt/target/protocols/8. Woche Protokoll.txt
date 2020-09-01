@@ -1,0 +1,67 @@
+Projekt in der Softwareentwicklung
+----------------------------------
+
+Datum: 28.05.18   Uhrzeit: 11:20-12:50
+
+Anwesenheit: Timon, Flo, Salavat, Ivan, Beknazar, Maksat, Bayish, Christian
+
+Fehlend: Simon
+
+Features für später:	- Aufträge stornieren, falls noch nicht begonnen
+			- Extra Details zu allen Produkten anlegen für Tabellen
+			- Filter-Funktion
+			- bestimmte Arbeitsgänge ändern, falls Kunde nachträglich fragt (nur wenige z.B. Farbe)
+			- Warnung wenn Liefertermin nicht eingehalten werden kann (EndDate > DeliveryDate)
+
+
+Protokollkontrolle 7. Woche
+---------------------------
+- Skalierung fehlt, Christian bemüht sich darum
+- Implementation des Algorithmus wurde erfolgreich gelöst
+- Testdaten für Algorithmus, um in Probeweise starten zu können fehlt
+- restlichen Aufgaben erledigt
+
+Anmerkungen von Christian:
+- Beim Hinzufügen eines Produktes: Auswählen einer Checkbox ohne Angabe von der Dauer führt zu Exceptions. --> wird nun ebenfalls geprüft.
+- Prüfung auf Auswahl mindestens eines Arbeitsschrittes? --> hinzugefügt, weil meiner Meinung nach ja
+- Änderungen am Design von neue Maschine, neuen Auftrag und neues Produkt anlegen. meisten Anpassungen sind beim Auftrag nötig gewesen
+
+Aufgaben bis 04.06.2018:
+------------------------
+Aufgaben:														bearbeitet von:
+1. Auftrag erstellen und anzeigen (Methode)                		Modell-Team
+
+2. Größe der GUI anpassen!										Christian
+
+3. Hinzufügen eines neuen Produktes								Modell-Team
+   - Methode die Produktname entgegennimmt								
+   - Liste von Arbeitsschritten															
+   - Beschreibung												
+
+   - Dauer des Arbeitsschrittes									Flo
+
+4. Bug: Mitarbeiter Informationen verknüpfen 					Christian
+
+5. Stunden --> Minuten (Arbeitsschritte bei den Produkten)		Christian
+
+6. Aufträge erfinden + Algorithmus testen 						Modell-Team
+
+7. Employee Login und PW entfernen -> zu Admin verschieben
+   (und extra Daten für Admin, vlt Name und Email als String)	Modell-Team
+
+8. Aktualisierungsbug fixen beim Löschen 						Christian, Flo, Timon
+   von Maschinen, Mitarbeiter, Produkt							
+
+9. Buttons vertauschen (hinzufügen / abbrechen)					Flo
+
+10. Auftrag erstellen Fenster an Design anpassen 				Christian
+
+11. Neue Mitarbeiter hinzufügen									Modell-Team
+
+
+Zusätzliches:
+-------------
+---
+
+
+//

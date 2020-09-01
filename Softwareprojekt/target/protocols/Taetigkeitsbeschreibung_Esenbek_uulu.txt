@@ -1,0 +1,19 @@
+Beknazar Esenbek uulu
+Tätigkeitsbeschreibung:
+Im Softwareprojekt war ich im Modell-Team tätig, und zwar verantwortlich für die Algorithmen:
+- Maschinen planen
+- Mitarbeiterstätigkeit planen
+Als Lösung habe ich die OR-Tools Bibliothek von Google verwendet.
+ Die Haupseite der "Google Optimization Tools" ist hier: https://developers.google.com/optimization/
+ Diese Bibliothek ist Open Source und unter Apache License 2.0 für Herunterladen ist verfügbar.
+
+ OR-Tools hat viele Vorteilen, wie z.B. Algorithmen für Graphs, Routings, linear Problemen.
+
+ Meine Tätigkeit kann man in 3 Teilen verteilen:
+ 1) OR-Tools Dokumentation lernen und Tutorials von Hauptseite probieren zu machen. In diesem Schritt
+ das Problem war, dass alle Tutorial ist im Python geschrieben, d.h. beim Lernen musste man
+ beide Dokumentationen für Java und Python lesen. Und alle Tutorialaufgaben auch im Java versuchen zu schreiben.
+
+ 2) Die Aufgaben mit eigene Testdaten zu lösen. Das heißt, ein funktionierendes Algorithmus zu bekommen
+
+ 3) Diese Algorithmus in die Projekt einarbeiten
